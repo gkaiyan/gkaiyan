@@ -28,8 +28,8 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## My Humble Projects:(coming soon)<br>
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gkaiyan&repo=comingsoon&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+## My Humble Projects: More to come 😉 <br>
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gkaiyan&repo=covid-data-exploration&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
 ## Hobbies:<br>
 🏃🏻‍♀️. Jogging<br>
