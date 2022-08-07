@@ -11,6 +11,8 @@
 
 <a href="https://www.linkedin.com/in/kaiyangoh/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="120px"/></a><br>
 
+<a href="https://public.tableau.com/app/profile/kai.yan6223"><img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" width="120px"/></a><br> 
+
 ![](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
 
 ## Technical Skills 🗂 
