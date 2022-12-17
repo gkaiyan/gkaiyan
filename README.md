@@ -1,17 +1,15 @@
-![banner (1)](https://user-images.githubusercontent.com/102003660/182030526-df89e96f-fa22-4173-93b5-2d488403d6c2.png)
-
-
-
 ## About Me 👩🏻‍💻  
-- Aspiring Data Analyst looking for a mid-career switch 💻
+- Female Data engineer 💻
 - New to the amazing world of Data from Jan 2022
 - Exploring and discovering SQL, Python and tools for analytics 📊 everyday 
-- Currently a Data Analyst Intern and open 🧐 to opportunities (see my Linkedin!)
+- Currently a Data Enginner at FDMgroup (see my Linkedin!)
 - Experimenting and 📖 learning while I embark on more analytic projects
 
 <a href="https://www.linkedin.com/in/kaiyangoh/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="120px"/></a><br>
 
 <a href="https://public.tableau.com/app/profile/kai.yan6223"><img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" width="120px"/></a><br> 
+
+<a href="https://www.medium.com/@kaiyangoh85"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="120px"/></a><br> 
 
 ![](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
 
